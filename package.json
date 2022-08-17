@@ -1,0 +1,19 @@
+{
+  "name": "node-js-fcc",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmdaslam97/Node.js-with-FCC.git"
+  },
+  "author": "Mohammed Aslam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmdaslam97/Node.js-with-FCC/issues"
+  },
+  "homepage": "https://github.com/hmdaslam97/Node.js-with-FCC#readme"
+}
